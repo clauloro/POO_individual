@@ -1,3 +1,3 @@
 # POO_individual
 Usuario: clauloro
-repositorio link: 
+repositorio link: https://github.com/clauloro/POO_individual.git
